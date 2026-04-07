@@ -1,2 +1,27 @@
-# uber-trip-analysis-powerbi---Data-analysis
-Interactive Power BI dashboard analyzing 100K+ Uber NYC rides
+# 🚖 Uber Trip Analytics Dashboard
+
+## 📌 Overview
+End-to-end Power BI analytics project analyzing 100,000+ real-time 
+Uber rides from New York City (June 2024).
+
+## 📊 Dashboard Pages
+- **Overview Analysis** – KPIs, payment types, vehicle performance, daily trends
+- **Time Analysis** – Peak demand heatmap by hour/day, 10-minute interval trends  
+- **Details Grid** – Drill-through to granular ride-level data
+
+## 🛠️ Tools & Technologies
+- Power BI Desktop (Dashboards, DAX, Bookmarks, Drill-through)
+- DAX (USERELATIONSHIP, TOPN, RANKX, SUMMARIZE, CONCATENATEX)
+- Power Query (Data profiling, quality checks)
+- Excel (Fact table + Location dimension table)
+- Star Schema Data Modeling
+
+## 🖼️ Dashboard Preview
+![Overview](screenshots/overview.png)
+![Time Analysis](screenshots/time-analysis.png)
+![Details Grid](screenshots/details-grid.png)
+
+## 💡 Key Features
+- Dynamic parameter switch for Total Bookings / Revenue / Trip Distance
+- Active & inactive relationships for pickup vs drop-off location analysis
+- Uber-branded dark theme UI with custom navigation buttons
