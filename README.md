@@ -17,9 +17,9 @@ Uber rides from New York City (June 2024).
 - Star Schema Data Modeling
 
 ## 🖼️ Dashboard Preview
-![Overview](screenshots/overview.png)
-![Time Analysis](screenshots/time-analysis.png)
-![Details Grid](screenshots/details-grid.png)
+![Overview](overview.png)
+![Time Analysis](time-analysis.png)
+![Details Grid](details-grid.png)
 
 ## 💡 Key Features
 - Dynamic parameter switch for Total Bookings / Revenue / Trip Distance
